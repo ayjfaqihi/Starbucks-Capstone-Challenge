@@ -5,7 +5,7 @@
 https://medium.com/@ayjfaqihi/starbucks-capstone-challenge-3088ea2030fb
 ## Table Of Content
 
-### Introduction
+### Project Overview
 
 ### Problem Statement
 ### Data Discovery
@@ -26,7 +26,7 @@ https://medium.com/@ayjfaqihi/starbucks-capstone-challenge-3088ea2030fb
 ##### - Findings
 ##### - Challenges & Obstacles
 ###  References
-## Introduction
+## Project Overview
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks. 
 
 Not all users receive the same offer, and that is the challenge to solve with this data set.
