@@ -25,6 +25,7 @@ https://medium.com/@ayjfaqihi/starbucks-capstone-challenge-3088ea2030fb
 ### Conclusion
 ##### - Findings
 ##### - Challenges & Obstacles
+##### - Improvments
 ###  References
 ## Project Overview
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks. 
@@ -106,6 +107,9 @@ During this project, I learned a lot of things that helped me improve myself, an
 ### Challenges & Obstacles
 - Due to my lack of experience with Python and Pandas, I had some difficulties to complete this project.
 - Cleaning the value column was difficult it took longer than it should have.
+### improvments 
+- Collect more data on users so that we can predict more precisely.
+- To optimize the gradient boosting classifier, I utilized randomized search, however it was not the best option. Tuning it without the randomized search will give us more accuracy, but it will take longer and will disconnect the workspace.
 ## References
 
 -   [https://www.datarmatics.com](https://www.datarmatics.com/)
